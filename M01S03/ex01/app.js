@@ -33,8 +33,10 @@ console.log(person.name);
 
 console.log(person.age.toString());
 
+console.warn(
+  `Afiseaza fraza “xxx s-a nascut in aaaa.”
+  Foloseste tot anul curent pentru a scadea varsta.`,
+);
 console.log(
   person.name + ' ' + 's-a nascut in ' + (2021 - person.age).toString() + '.',
 );
-
-// console.log('Gabriel s-a nascut in 1982.');

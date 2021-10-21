@@ -31,7 +31,6 @@
     "configurations": [],
     "compounds": []
   },
-  "editor.detectIndentation": false,
   "liveServer.settings.ignoreFiles": ["server/api/persons/models/*.data"],
   "javascript.updateImportsOnFileMove.enabled": "always"
 }

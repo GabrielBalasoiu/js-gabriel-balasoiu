@@ -17,8 +17,30 @@
   <script src="https://pixellab.ro/js/pixeltab/static/js/pixeltab-top.js"></script>
 </head>
 
-<body>
+<body onload="alert('Bine ai venit.');">
 
+  <h1 onclick="alert('Gabriel Balasoiu');">Hello</h1>
+
+  <button
+    type="submit"
+    title="Apasa"
+    onclick="alert('Am fost apasat');"
+  >Buton 1</button>
+
+  <button
+    type="submit"
+    title="Apasa"
+    onclick="alert('Butonul a fost apasat');"
+  >Buton 2</button>
+
+  <button
+    type="submit"
+    title="Apasa"
+    onmouseover="console.log('Ai vrea sa apesi acest buton?');"
+    onclick="alert('Tasteaza numele tau aici');"
+  >Buton 3</button>
+
+  <script src="./js/app.js"></script>
 
 
 
