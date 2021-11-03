@@ -1,10 +1,12 @@
-// ('use strict');
-// (function () {}.toString());
-
-// 24;
+//iiife
+12;
 
 (function () {
   console.log('test');
+})();
+
+(() => {
+  console.log('arrow function');
 })();
 
 (function (w) {

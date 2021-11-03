@@ -1,5 +1,6 @@
 var i;
 var testNumber = prompt('Introdu un numar');
+var upperLimit = prompt('Introdu limita superioara');
 
 for (i = 0; i <= upperLimit; i++) {
   console.log(i);
