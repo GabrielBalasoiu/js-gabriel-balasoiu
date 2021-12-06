@@ -1,0 +1,27 @@
+{
+  "name": "js-gabriel-balasoiu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fancyapps/ui": "^4.0.9",
+    "jquery": "^3.6.0",
+    "pristinejs": "^0.1.9",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBalasoiu/js-gabriel-balasoiu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielBalasoiu/js-gabriel-balasoiu/issues"
+  },
+  "homepage": "https://github.com/GabrielBalasoiu/js-gabriel-balasoiu#readme"
+}
